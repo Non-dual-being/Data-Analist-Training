@@ -54,5 +54,5 @@ def organize_files(base_directory):
     move_files_to_directories(base_directory, files, extension_map)
 
 # Voorbeeldgebruik
-base_directory = r"C:\Users\Stichting GeoFort\Documents\0. Coding\8. Data-analist\Python\sortmap"
+base_directory = r".\sortmap"
 organize_files(base_directory)
