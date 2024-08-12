@@ -1,0 +1,14 @@
+customer_id,first_name,order_total,row_num
+100101,Kevin,26.24,1
+100101,Kevin,10.45,2
+100102,Charles,11.11,1
+100102,Charles,9.97,2
+100103,Finley,27.01,1
+100103,Finley,4.00,2
+100104,Obi,24.12,1
+100104,Obi,16.42,2
+100105,Don,8.11,1
+100106,Frodo,90.42,1
+100106,Frodo,53.12,2
+100108,Maggie,87.01,1
+100110,Anakin,6.19,1
